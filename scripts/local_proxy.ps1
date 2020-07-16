@@ -1,0 +1,1 @@
+DJANGO_SETTINGS_MODULE=serverless_django.settings.local_proxy waitress serverless_django.wsgi:application

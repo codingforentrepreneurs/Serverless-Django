@@ -1,0 +1,1 @@
+gunicorn serverless_django.wsgi:application
