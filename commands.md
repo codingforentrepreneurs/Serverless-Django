@@ -11,6 +11,8 @@ python manage.py migrate
 #### Different Settings Module
 ```
 python manage.py migrate --settings serverless_django.settings.production
+
+python manage.py runserver --settings serverless_django.settings.production
 ```
 
 #### Using Environment Variables
