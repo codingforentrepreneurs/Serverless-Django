@@ -1,0 +1,1 @@
+C:\Users\cfe\cloud_sql_proxy
