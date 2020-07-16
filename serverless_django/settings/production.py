@@ -14,6 +14,8 @@ SECRET_KEY = os.environ.get("SECRET_KEY", '+sn5=%=4*+da^!xvr5q%k$cqeov_@352ihfvz
 
 print("Using production")
 # Database
+
+HOME_PAGE_MSG = "Hello World. This Is Production"
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',

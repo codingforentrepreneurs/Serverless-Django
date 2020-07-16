@@ -5,6 +5,8 @@ from .base import *
 
 from .installed import *
 
+
+HOME_PAGE_MSG = "Hello World. This Is Local"
 print("Using local")
 # Database
 DATABASES = {
