@@ -1,5 +1,7 @@
-# Serverless-Django
-Learn to build and deploy a Serverless Django application to Google Cloud Run with Cloud SQL, Cloud Build, &amp; Docker.
+[![Serverless Django Logo](https://static.codingforentrepreneurs.com/media/projects/serverless-django/images/share/Serverless_Django_with_GCloud_-_Share.jpg)](https://www.codingforentrepreneurs.com/projects/serverless-django)
+
+# Serverless Django
+[Learn](https://www.codingforentrepreneurs.com/projects/serverless-django) to build and deploy a Serverless Django application to Google Cloud Run with Cloud SQL, Cloud Build, &amp; Docker.
 
 ### Requirements
 - Python XP -> found [here](https://cfe.sh/projects/30-days-python-38) 
