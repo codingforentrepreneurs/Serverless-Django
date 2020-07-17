@@ -11,9 +11,9 @@ print("Using local proxy")
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': "local",
-        'USER': "dblocaluser",
-        "PASSWORD": "<your_pw>",
+        'NAME': "production",
+        'USER': "dbproduser",
+        "PASSWORD": "learncode",
         "HOST": '127.0.0.1',
         "PORT": 6543,
     }
