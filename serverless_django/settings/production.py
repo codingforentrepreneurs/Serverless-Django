@@ -5,7 +5,7 @@ from .base import *
 
 from .installed import *
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['serverless-django-un3qlwrkgq-uw.a.run.app']
 DEBUG = False
 
 # SECURITY WARNING: keep the secret key used in production secret!
