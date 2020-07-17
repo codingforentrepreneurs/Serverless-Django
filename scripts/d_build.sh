@@ -1,0 +1,1 @@
+docker build -t serverless-django -f Dockerfile .
