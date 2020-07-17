@@ -1,1 +1,1 @@
-C:\Users\cfe\cloud_sql_proxy -instances=serverless-cfe:us-west1:serverless-django-cfe-2 -credential_file=C:\Users\cfe\Dev\serverless-django\db\key.json
+C:\Users\cfe\cloud_sql_proxy -instances=serverless-cfe:us-west1:serverless-django-db-instance-01 -credential_file=C:\Users\cfe\Dev\serverless-django\db\key.json
