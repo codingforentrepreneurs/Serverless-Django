@@ -21,6 +21,53 @@
 - [Serverless Django Tutorial](https://kirr.co/zqwkw6)
 
 
+### To use this code
+
+**1. Clone**
+```
+git clone https://github.com/codingforentrepreneurs/Serverless-Django .
+```
+
+**2. Create Virtual Environment**
+```bash
+cd supercharged
+python3.8 -m venv .
+```
+> Use Any version of Python >= 3.6
+
+**3. Activate virtual environment**
+Mac/Linux
+```
+source bin/activate
+```
+
+Windows:
+```
+.\Scripts\activate
+```
+
+> If using **pipenv**, run `pipenv shell` && `pipenv install`
+
+
+**4. Install requirements**
+
+```
+pip install -r requirements.txt
+```
+
+**5. Run locally**
+Mac/Linux
+```
+chmod +x ./scripts/local.sh
+./scripts/local.sh
+```
+
+Windows
+```powershell
+.\scripts\local.ps1
+```
+
+
 ### Lesson Code Reference
 [3 - Virtual Environment with Pipenv & VSCode Workspace](../../tree/e763f8433cfbec95b36c913b895c8abf5d126379/)
 
